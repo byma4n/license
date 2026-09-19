@@ -1,6 +1,7 @@
 {
   "domain": [
-    "pojoksoft.com","www.pojoksoft.com",
+    "pojoksoft.com",
+    "www.pojoksoft.com",
     "selarasjambi.com",
     "kmsport.id",
     "beritafakta.id",
@@ -46,16 +47,22 @@
     "inihalmahera.com",
     "sentralinfo.com",
     "holongpapua.com",
-    "smamaarif1pamekasan.sch.id","www.smamaarif1pamekasan.sch.id",
+    "smamaarif1pamekasan.sch.id",
+    "www.smamaarif1pamekasan.sch.id",
     "nyali.id",
-    "mediatni-polri.id","www.mediatni-polri.id",
-    "ungkappublik.id","www.ungkappublik.id",
-    "baione.id","www.baione.id",
-    "serumpundesa.com","www.serumpundesa.com",
-    "diksiber.id","www.diksiber.id",
+    "mediatni-polri.id",
+    "www.mediatni-polri.id",
+    "ungkappublik.id",
+    "www.ungkappublik.id",
+    "baione.id",
+    "www.baione.id",
+    "serumpundesa.com",
+    "www.serumpundesa.com",
+    "diksiber.id",
+    "www.diksiber.id",
     "demo.dirastore.com",
-    "secondwp.test","www.secondwp.test",
-    "secondnews.test","www.secondnews.test"
+    "secondwp.test",
+    "www.secondwp.test"
   ],
   "exp": "9999-11-03"
 }
